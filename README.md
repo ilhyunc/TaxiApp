@@ -12,7 +12,5 @@ The TaxiApp is a ride-hailing application built with SwiftUI that allows users t
 - Customizable UI Components: The app features a customizable and responsive UI, including a location search bar, ride request view, and action buttons.
 
 ## Demo Video
-
-
 https://github.com/user-attachments/assets/49748181-b693-4021-826c-c90271f14883
 
